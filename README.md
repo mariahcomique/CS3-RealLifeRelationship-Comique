@@ -6,7 +6,7 @@ A simple Python project demonstrating an object-oriented **One-to-Many relations
 
 ## Files Included
 * `realLifeRelationship.py`: Contains the `Student` and `Course` classes, along with the `add_student` method implementation.
-* diagramm.png
+![Diagram](diagramm.png)
 
 ## How to Run
 1. Make sure you have Python installed.
